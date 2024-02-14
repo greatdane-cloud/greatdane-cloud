@@ -2,7 +2,7 @@
 #### I am a Front-end Developer
 ![I am a Front-end Developer](https://pbs.twimg.com/profile_banners/1098646430/1707916164/600x200))
 
-I am enjoying this coding journey having lots of fun and learning new technologies. My favorite place is my personal computer other than the beach. Feel free to reach out to me if you need advice.
+This is the culmination of my younger self's dream. Coding is my passion and my purpose. When away from the keyboard, I enjoy fishing, reading up on current world events, and supporting my favorite football teams. 
 
 Skills: REACT / JS / HTML / CSS/ FIGMA/ VITE/ STACKBLITZ
 
