@@ -6,7 +6,7 @@ This is the culmination of my younger self's dream. Coding is my passion and my 
 
 Skills: REACT / JS / HTML / CSS/ FIGMA/ VITE/ STACKBLITZ
 
-- 🔭 I’m currently working on https://stackblitz.com/~/github.com/greatdane-cloud/vitejs-vite-semantic-html 
+- 🔭 I’m currently working on https://stackblitz.com/~/github.com/greatdane-cloud/building-an-nft-site
 - 🌱 I’m currently learning The Front-End Developer Career Path @ Scrimba 
 - 📫 How to reach me: vanderbyljeandre@gmail.com 
 
