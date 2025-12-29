@@ -1,4 +1,4 @@
-![Jeandre van der Byl – Frontend-Focused Full-Stack Developer](A_professionally_designed_banner_features_Jeandre_.png)
+![Jeandre van der Byl – Frontend-Focused Full-Stack Developer](Jeandre_.png)
 
 ### 👋 Hi, I’m **Jeandre van der Byl**
 **Frontend-Focused Full-Stack Developer | Remote-Ready (US / EU)** 🌍
