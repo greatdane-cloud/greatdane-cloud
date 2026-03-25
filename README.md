@@ -19,7 +19,7 @@ I focus on accessibility, clean architecture, and scalable codebases.
 ### 🚀 Projects
 - **Spooky Sightings**  
   Containerized full-stack web app for logging paranormal sightings  
-  Node.js · TypeScript · Express · Docker  
+  Node.js 18+ · Vanilla Javascript · HTML/CSS · JSON storage · WSL + VS Code (development)
   🔗 https://github.com/greatdane-cloud/spooky-
 
 - **Momentum Dashboard**  
